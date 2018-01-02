@@ -1,0 +1,82 @@
+[W 07:49:30.922 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 07:49:30.922 LabApp] JupyterLab alpha preview extension loaded from /home/rushim245/anaconda2/envs/StockML/lib/python2.7/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 07:49:30.926 LabApp] Running the core application with no additional extensions or settings
+[I 07:49:30.932 LabApp] Serving notebooks from local directory: /home/rushim245/StockML/Stock Market
+[I 07:49:30.932 LabApp] 0 active kernels 
+[I 07:49:30.933 LabApp] The Jupyter Notebook is running at: http://0.0.0.0:8888/
+[I 07:49:30.933 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:49:30.933 LabApp] No web browser found: could not locate runnable browser.
+[W 07:49:41.438 LabApp] No such file or directory: STockPred
+[W 07:49:41.439 LabApp] 404 GET /api/contents/STockPred?1510040981408 (143.165.192.134) 1.61ms referer=http://mobilytics.in:8888/lab?
+[W 07:49:41.444 LabApp] No such file or directory: STockPred/Yahoo+Stock.ipynb
+[W 07:49:41.444 LabApp] 404 GET /api/contents/STockPred/Yahoo%2BStock.ipynb?content=0&1510040981409 (143.165.192.134) 0.97ms referer=http://mobilytics.in:8888/lab?
+[W 07:51:38.656 LabApp] Notebook Yahoo+Stock.ipynb is not trusted
+[I 07:51:40.248 LabApp] Kernel started: e8186a8e-a8eb-4a4b-9c20-c96111839c81
+[I 07:51:41.006 LabApp] Adapting to protocol v5.1 for kernel e8186a8e-a8eb-4a4b-9c20-c96111839c81
+[I 07:53:41.164 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 07:53:41.165 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 07:55:41.834 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 07:55:41.835 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 07:57:42.884 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 07:57:42.885 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:29:53.923 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:29:53.924 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:31:55.106 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:31:55.107 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:33:56.089 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:33:56.090 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:37:57.138 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:37:57.139 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:39:32.863 LabApp] Kernel interrupted: e8186a8e-a8eb-4a4b-9c20-c96111839c81
+[I 08:39:58.087 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:39:58.088 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:41:59.150 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:41:59.151 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:44:00.478 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:44:00.480 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:46:01.705 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:46:01.706 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:48:03.374 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:48:03.375 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:50:04.493 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:50:04.494 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:54:06.682 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:54:06.683 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 08:56:07.832 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:56:07.832 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[W 08:57:52.197 LabApp] 404 GET /static/components/MathJax/jax/element/mml/optable/GreekAndCoptic.js?rev=2.6.0 (143.165.192.134) 429.66ms referer=http://mobilytics.in:8888/lab?
+[I 08:58:08.783 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 08:58:08.784 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:00:10.567 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:00:10.568 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:02:12.596 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:02:12.596 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:04:14.479 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:04:14.480 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:06:15.826 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:06:15.827 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:08:17.504 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:08:17.506 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:10:19.510 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:10:19.511 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:12:20.885 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:12:20.886 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:14:22.063 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:14:22.064 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:16:23.463 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:16:23.464 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:18:24.770 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:18:24.771 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:22:26.320 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:22:26.321 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:28:27.613 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:28:27.614 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:32:29.758 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:32:29.760 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[I 09:38:31.005 LabApp] Saving file at /Yahoo+Stock.ipynb
+[W 09:38:31.006 LabApp] Saving untrusted notebook Yahoo+Stock.ipynb
+[C 09:44:27.239 LabApp] received signal 15, stopping
+[I 09:44:27.239 LabApp] Shutting down kernels
+[I 09:44:27.340 LabApp] Kernel shutdown: e8186a8e-a8eb-4a4b-9c20-c96111839c81
